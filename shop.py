@@ -39,3 +39,5 @@ def tryNbuy(customerMoney, customerRequest, purchaseAttempts):
 
 
 tryNbuy(customerMoney1, customerRequest1, purchaseAttempts1)
+
+# comment
